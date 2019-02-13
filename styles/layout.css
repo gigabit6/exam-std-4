@@ -304,6 +304,32 @@ table a, #comments a{background-color:inherit;}
 
 
 /* ------------------------------------------------------------------------------------------------------------ */
+
+#main{
+	background-image:url('../images/demo/backgrounds/01.png');
+}
+#main h2.heading{
+	color: orange;
+}
+
+h2.heading span{
+	color: lightblue;
+}
+#pageintro footer a{
+	color: silver;
+}
+
+#second-section p, #fifth-section p{
+	text-align: justify;
+}
+
+#third-section p.nospace{
+	display: none;
+}
+#fourth-section{
+	background-image:url('../images/demo/backgrounds/02.png');
+}
+
 /* ------------------------------------------------------------------------------------------------------------ */
 /* ------------------------------------------------------------------------------------------------------------ */
 /* ------------------------------------------------------------------------------------------------------------ */
